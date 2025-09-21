@@ -1,1 +1,3 @@
-Εργασίες στο μάθημα Προγραμματισμός Συστήματος της σχολής Πληροφορικής και Τηλεπικοινωνιών του Εθνικού και Καποδιστριακού Πανεπιστημίου Αθηνών.
+**Assignments for the course "System Programming" of the Department of Informatics and Telecommunications at the National and Kapodistrian University of Athens.**
+
+*Description:* This repository contains systems programming projects implemented in C for Linux/Unix environments. It showcases the design and implementation of a multi-threaded job execution server and command-line client, emphasizing process and thread management, inter-process communication (IPC), socket programming, and asynchronous programming. The project demonstrates the use of synchronization primitives (mutexes, condition variables) and low-level resource management, with a focus on efficient and concurrent job scheduling and execution.
