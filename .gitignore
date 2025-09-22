@@ -1,0 +1,61 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+jobCommander
+jobExecutorServer
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Core dumps
+core
+core.*
+
+# Build directories
+build/
+bin/
+obj/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Zone Identifier files (Windows security feature)
+*:Zone.Identifier
+*_Zone.Identifier
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.temp
+*.tmp
